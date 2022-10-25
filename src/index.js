@@ -2,4 +2,4 @@
 import './main.scss'
 
 // Js
-import './js/test'
+import './js/main'
